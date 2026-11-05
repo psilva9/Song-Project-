@@ -1,5 +1,7 @@
 # 🎵 Song Studio
 
+**🌐 Live site: https://delicate-pika-b3864e.netlify.app**
+
 An AI music generator powered by [SunoAPI.org](https://docs.sunoapi.org/). Users describe a song (or write/generate lyrics), pick a vibe, and get two full tracks they can play, read lyrics for, and download.
 
 ## Features
