@@ -1,0 +1,14 @@
+{
+  "name": "song-project",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AI music generator powered by SunoAPI.org, deployed on Netlify.",
+  "scripts": {
+    "dev": "netlify dev",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
